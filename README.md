@@ -32,8 +32,5 @@ This is a simple food ordering system implemented in C++ that allows users to re
 
 - **C++ Compiler**: This program requires a C++ compiler to compile and run.
 
-## Contributing
-
-Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 
